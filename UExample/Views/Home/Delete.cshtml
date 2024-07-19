@@ -1,0 +1,31 @@
+﻿@model UExample.DataLayer.User
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+
+
+<h3>آیا از حذف کاربر "@Model.Username" مطمئن هستید؟</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Username)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="حذف کاربر" class="btn btn-danger" />
+        </div>
+    }
+</div>

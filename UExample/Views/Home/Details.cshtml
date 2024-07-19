@@ -1,0 +1,45 @@
+﻿@model UExample.DataLayer.UserDetail
+
+@{
+    ViewBag.Title = "Details";
+} 
+
+<div hidden>
+    <p hidden>
+        @Html.DisplayFor(model => model.User_Id)
+    </p>
+</div>
+
+<h2>مشخصات</h2>
+<hr style="background-color:gold;" />
+<hr style="background-color:gold;" />
+
+<div>
+
+    <h4> مشخصات کاربر</h4>
+    <hr />
+
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Mobile)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mobile)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Bio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Bio)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.User_Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

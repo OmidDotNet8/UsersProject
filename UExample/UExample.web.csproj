@@ -1,0 +1,75 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>Disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Content\bootstrap-rtl.css" />
+    <None Include="wwwroot\Content\bootstrap-theme.css" />
+    <None Include="wwwroot\Content\bootstrap-theme.css.map" />
+    <None Include="wwwroot\Content\bootstrap-theme.min.css" />
+    <None Include="wwwroot\Content\bootstrap-theme.min.css.map" />
+    <None Include="wwwroot\Content\bootstrap.css" />
+    <None Include="wwwroot\Content\bootstrap.css.map" />
+    <None Include="wwwroot\Content\bootstrap.min.css" />
+    <None Include="wwwroot\Content\bootstrap.min.css.map" />
+    <None Include="wwwroot\Content\css\bootstrap-rtl.min.css" />
+    <None Include="wwwroot\Content\css\bootstrap.min.css" />
+    <None Include="wwwroot\Content\css\font-awesome.min.css" />
+    <None Include="wwwroot\Content\css\owl.carousel.css" />
+    <None Include="wwwroot\Content\css\style.css" />
+    <None Include="wwwroot\Content\fonts\fontawesome-webfont.eot" />
+    <None Include="wwwroot\Content\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\Content\fonts\fontawesome-webfont.ttf" />
+    <None Include="wwwroot\Content\fonts\fontawesome-webfont.woff" />
+    <None Include="wwwroot\Content\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\Content\fonts\FontAwesome.otf" />
+    <None Include="wwwroot\Content\fonts\yekannumbers.eot" />
+    <None Include="wwwroot\Content\fonts\yekannumbers.svg" />
+    <None Include="wwwroot\Content\fonts\yekannumbers.ttf" />
+    <None Include="wwwroot\Content\fonts\yekannumbers.woff" />
+    <None Include="wwwroot\Content\fonts\yekanweb.eot" />
+    <None Include="wwwroot\Content\fonts\yekanweb.svg" />
+    <None Include="wwwroot\Content\fonts\yekanweb.ttf" />
+    <None Include="wwwroot\Content\fonts\yekanweb.woff" />
+    <None Include="wwwroot\Content\img\avatar.jpg" />
+    <None Include="wwwroot\Content\img\bg.jpg" />
+    <None Include="wwwroot\Content\img\img.jpg" />
+    <None Include="wwwroot\Content\img\logo.png" />
+    <None Include="wwwroot\Content\img\phone.png" />
+    <None Include="wwwroot\Content\img\refresh.png" />
+    <None Include="wwwroot\Content\img\sprite.png" />
+    <None Include="wwwroot\Content\img\thumb.png" />
+    <None Include="wwwroot\Content\js\bootstrap.min.js" />
+    <None Include="wwwroot\Content\js\jquery.min.js" />
+    <None Include="wwwroot\Content\js\modernizr.js" />
+    <None Include="wwwroot\Content\js\owl.carousel.js" />
+    <None Include="wwwroot\Content\js\script.js" />
+    <None Include="wwwroot\Content\js\wow.js" />
+    <None Include="wwwroot\Content\Mycss\Style.css" />
+    <None Include="wwwroot\Content\Site.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UExample.Core\UExample.Core.csproj" />
+    <ProjectReference Include="..\UExample.DataLayer\UExample.DataLayer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Users\" />
+  </ItemGroup>
+
+</Project>

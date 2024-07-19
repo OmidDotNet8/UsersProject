@@ -1,0 +1,47 @@
+﻿@model UExample.DataLayer.User
+
+@{
+    ViewData["Title"] = "Details1";
+}
+
+<div hidden>
+    <p hidden>
+        @Html.DisplayFor(model => model.Id)
+    </p>
+</div>
+
+<h2>مشخصات</h2>
+<hr style="background-color:gold;" />
+<hr style="background-color:gold;" />
+
+<div>
+
+    <h4>کاربر</h4>
+    <hr style="background-color:gold;" />
+
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Username)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Password)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Password)
+        </dd>
+
+    </dl>
+</div>
+
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+

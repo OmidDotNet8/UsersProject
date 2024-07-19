@@ -1,0 +1,70 @@
+﻿@model IEnumerable<UExample.DataLayer.UserDetail>
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>مشخصات کاربران</h2>
+<hr style="background-color:gold;" />
+
+<p>
+    <a class="btn btn-primary" style="text-decoration:none" href="/Home/Index1">لیست کاربران</a>
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.User_Id)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Mobile)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Bio)
+        </th>
+
+        <th>
+            عملیات
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>
+                @item.User_Id
+            </td>
+
+            <td>
+                @item.Mobile
+            </td>
+
+            <td>
+                @item.Bio
+            </td>
+
+            <td>
+                <a class="btn btn-warning btn-sm" style="text-decoration:none" href="/Home/Edit/@item.User_Id">پروفایل</a>
+
+                @{
+                    if (item.Mobile == "")
+                    {
+                        <input disabled class="btn btn-info btn-sm" style="text-decoration:none" href="/Home/Details/@item.User_Id" placeholder="Details">
+                    }
+                    else
+                    {
+                        <a class="btn btn-info btn-sm" style="text-decoration:none" href="/Home/Details/@item.User_Id">مشخصات</a>
+                    }
+                }
+
+            </td>
+            <td></td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,197 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\Mycss\\Style.css",
+      "PackagePath": "staticwebassets\\Content\\Mycss\\Style.css"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\Site.css",
+      "PackagePath": "staticwebassets\\Content\\Site.css"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Content\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Content\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Content\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Content\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\css\\style.css",
+      "PackagePath": "staticwebassets\\Content\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Content\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Content\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Content\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Content\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Content\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Content\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\fonts\\yekannumbers.eot",
+      "PackagePath": "staticwebassets\\Content\\fonts\\yekannumbers.eot"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\fonts\\yekannumbers.svg",
+      "PackagePath": "staticwebassets\\Content\\fonts\\yekannumbers.svg"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\fonts\\yekannumbers.ttf",
+      "PackagePath": "staticwebassets\\Content\\fonts\\yekannumbers.ttf"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\fonts\\yekannumbers.woff",
+      "PackagePath": "staticwebassets\\Content\\fonts\\yekannumbers.woff"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\fonts\\yekanweb.eot",
+      "PackagePath": "staticwebassets\\Content\\fonts\\yekanweb.eot"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\fonts\\yekanweb.svg",
+      "PackagePath": "staticwebassets\\Content\\fonts\\yekanweb.svg"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\fonts\\yekanweb.ttf",
+      "PackagePath": "staticwebassets\\Content\\fonts\\yekanweb.ttf"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\fonts\\yekanweb.woff",
+      "PackagePath": "staticwebassets\\Content\\fonts\\yekanweb.woff"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\img\\bg.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\img\\img.jpg",
+      "PackagePath": "staticwebassets\\Content\\img\\img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Content\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\img\\phone.png",
+      "PackagePath": "staticwebassets\\Content\\img\\phone.png"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\img\\refresh.png",
+      "PackagePath": "staticwebassets\\Content\\img\\refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\img\\sprite.png",
+      "PackagePath": "staticwebassets\\Content\\img\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\img\\thumb.png",
+      "PackagePath": "staticwebassets\\Content\\img\\thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Content\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\Content\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Content\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\js\\script.js",
+      "PackagePath": "staticwebassets\\Content\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\gandi\\source\\repos\\UExample\\UExample\\wwwroot\\Content\\js\\wow.js",
+      "PackagePath": "staticwebassets\\Content\\js\\wow.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UExample.web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UExample.web.props",
+      "PackagePath": "build\\UExample.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UExample.web.props",
+      "PackagePath": "buildMultiTargeting\\UExample.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UExample.web.props",
+      "PackagePath": "buildTransitive\\UExample.web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

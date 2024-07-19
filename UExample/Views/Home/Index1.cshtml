@@ -1,0 +1,63 @@
+﻿@model IEnumerable<UExample.DataLayer.User>
+
+@{
+    ViewData["Title"] = "Index1";
+}
+
+<h2>لیست کاربران</h2>
+<hr style="background-color:gold;" />
+
+<p>
+    <a class="btn btn-success" style="text-decoration:none" href="/Home/Create">افزودن کاربر جدید</a>
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Id)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Username)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Password)
+        </th>
+
+        <th>
+            عملیات
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>
+                @item.Id
+            </td>
+
+            <td>
+                @item.Username
+            </td>
+
+            <td>
+                @item.Password
+            </td>
+
+            <td>
+                <a class="btn btn-warning btn-sm" style="text-decoration:none" href="/Home/Delete/@item.Id">حذف</a>
+                <a class="btn btn-info btn-sm" style="text-decoration:none" href="/Home/Details1/@item.Id">مشخصات</a>
+            </td>
+            <td></td>
+        </tr>
+    }
+</table>
+
+<hr style="background-color:gold;" />
+<hr style="background-color:gold;" />
+
+

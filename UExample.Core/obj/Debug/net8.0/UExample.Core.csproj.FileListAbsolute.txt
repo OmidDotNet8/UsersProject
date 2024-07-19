@@ -1,0 +1,17 @@
+C:\Users\gandi\source\repos\UExample\UExample.Core\bin\Debug\net8.0\UExample.Core.deps.json
+C:\Users\gandi\source\repos\UExample\UExample.Core\bin\Debug\net8.0\UExample.Core.dll
+C:\Users\gandi\source\repos\UExample\UExample.Core\bin\Debug\net8.0\UExample.Core.pdb
+C:\Users\gandi\source\repos\UExample\UExample.Core\obj\Debug\net8.0\UExample.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gandi\source\repos\UExample\UExample.Core\obj\Debug\net8.0\UExample.Core.AssemblyInfoInputs.cache
+C:\Users\gandi\source\repos\UExample\UExample.Core\obj\Debug\net8.0\UExample.Core.AssemblyInfo.cs
+C:\Users\gandi\source\repos\UExample\UExample.Core\obj\Debug\net8.0\UExample.Core.csproj.CoreCompileInputs.cache
+C:\Users\gandi\source\repos\UExample\UExample.Core\obj\Debug\net8.0\UExample.Core.dll
+C:\Users\gandi\source\repos\UExample\UExample.Core\obj\Debug\net8.0\refint\UExample.Core.dll
+C:\Users\gandi\source\repos\UExample\UExample.Core\obj\Debug\net8.0\UExample.Core.pdb
+C:\Users\gandi\source\repos\UExample\UExample.Core\obj\Debug\net8.0\ref\UExample.Core.dll
+C:\Users\gandi\source\repos\UExample\UExample.Core\bin\Debug\net8.0\UExample.Core.runtimeconfig.json
+C:\Users\gandi\source\repos\UExample\UExample.Core\obj\Debug\net8.0\UExample.Core.csproj.AssemblyReference.cache
+C:\Users\gandi\source\repos\UExample\UExample.Core\obj\Debug\net8.0\UExample.Core.genruntimeconfig.cache
+C:\Users\gandi\source\repos\UExample\UExample.Core\bin\Debug\net8.0\UExample.DataLayer.dll
+C:\Users\gandi\source\repos\UExample\UExample.Core\bin\Debug\net8.0\UExample.DataLayer.pdb
+C:\Users\gandi\source\repos\UExample\UExample.Core\obj\Debug\net8.0\UExample.DECC90CC.Up2Date

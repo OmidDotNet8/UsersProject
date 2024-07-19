@@ -1,0 +1,41 @@
+﻿@model UExample.Core.UserViewModel
+
+@{
+    ViewBag.Title = "Create";
+}
+
+
+<h2>کاربر جدید</h2>
+<hr />
+
+<form action="/Home/Create" method="post">
+
+    <dl>
+        <dt>
+            Username :
+        <dt />
+
+        <dd>
+            <input type="text" name="Username" />
+        </dd>
+
+        <dt>
+            Password :
+        </dt>
+
+        <dd>
+            <input type="password" name="Password" />
+        </dd>
+    </dl>
+
+    <br />
+    <div>
+        <input type="submit" class="btn btn-success" />
+    </div>
+</form>
+
+<br />
+
+<div class="form-control">
+    @Html.ActionLink("Back to List", "Index")
+</div>
